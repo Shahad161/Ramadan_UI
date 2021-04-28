@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ramadan</string>
+</resources>
+
+    <!--    <com.airbnb.lottie.LottieAnimationView-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="300dp"-->
+    <!--        app:layout_constraintEnd_toEndOf="parent"-->
+    <!--        app:layout_constraintStart_toStartOf="parent"-->
+    <!--        app:layout_constraintTop_toTopOf="parent"-->
+    <!--        app:lottie_autoPlay="true"-->
+    <!--        app:lottie_rawRes="@raw/ramadan2"-->
+    <!--        app:lottie_loop="true" />-->

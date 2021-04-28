@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Ramadan" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <!-- Customize your theme here. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+    <style name="main">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="main.BoldText">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="main.BoldText.daydate">
+        <item name="android:gravity">right</item>
+    </style>
+    <style name="main.time">
+        <item name="android:padding">8sp</item>
+        <item name="android:textColor">@color/yellow2</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>
